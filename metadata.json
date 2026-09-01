@@ -1,0 +1,6 @@
+{
+  "name": "Pixel Gol Invaders: Modo Carrera",
+  "description": "Juego retro arcade estilo Space Invaders en Pixel Art con temática de fútbol, arco dinámico, defensas tácticas y modo carrera por temporadas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
